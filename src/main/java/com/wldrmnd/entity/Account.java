@@ -1,8 +1,6 @@
 package com.wldrmnd.entity;
 
 import com.wldrmnd.entity.budget.Balance;
-import entity.budget.Balance;
-
 import java.io.Serializable;
 
 

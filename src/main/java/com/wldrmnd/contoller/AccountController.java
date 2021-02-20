@@ -1,8 +1,9 @@
 package com.wldrmnd.contoller;
 
-import entity.Account;
-import entity.User;
-import entity.budget.CreditCard;
+
+import com.wldrmnd.entity.Account;
+import com.wldrmnd.entity.User;
+import com.wldrmnd.entity.budget.CreditCard;
 import com.wldrmnd.service.AccountService;
 import com.wldrmnd.service.AuthorizationService;
 
