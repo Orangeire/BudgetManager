@@ -26,6 +26,8 @@ public class AccountMenu {
             controller.setAccountCreditCard(userCredentials, creditCardFromConsole);
             System.out.println(controller.getAll());
         }
+        else if (choice == 0)
+            return;
         menu();
     }
 
